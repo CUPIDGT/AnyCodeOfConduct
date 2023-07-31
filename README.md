@@ -1,2 +1,10 @@
 # AnyCodeOfConduct
-Any Code Of Conduct is a mod for the game Gorilla Tag, where you can modify the Code Of Conduct to say anything you want!
+This is a Gorilla Tag mod that allows you to modify the Code of Conduct at will!
+
+Simply:
+Start your game with the mod installed,
+Go to BepInEx/Configs in your Gorilla Tag folder,
+And change the text!
+
+## This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2023 Another Axiom LLC.
+
