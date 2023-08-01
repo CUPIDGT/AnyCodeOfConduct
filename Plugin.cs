@@ -19,7 +19,7 @@ namespace AnyCodeOfConduct
 		{
 			Utilla.Events.GameInitialized += OnGameInitialized;
 
-			await Task.Delay(500);
+			await Task.Delay(1000);
 
 			CodeOfConductText.text = AnyCodeOfConductConfig.HeaderText.Value;
 			COCText.text = AnyCodeOfConductConfig.BodyText.Value;
